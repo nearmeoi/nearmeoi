@@ -1,41 +1,50 @@
-# 🕷️ Welcome to My Spider-Verse 🕷️
+# Welcome to the Spider-Verse
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/4e/71/13/4e71132d7761934a1f49950d7d79d517.gif" alt="Black Spiderman" width="800" />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/allainnnn/count.svg?" />
+  <h3>"Is it just me, or is the code getting buggier?"</h3>
+  <img src="https://profile-counter.glitch.me/nearmeoi/count.svg?" />
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## Spider-Profile: Nearmeoi
 
 ```bash
-👨‍💻 Just a developer swinging through code
-🌐 Building web apps to save the dev-verse
-🎮 Fighting bugs like fighting villains
-🕹️ Love creating fun side projects
+- Senior Bug Swinger (Technically a Developer)
+- Building web apps to save the multiver- ouch, my back!
+- Defeating villains: mostly SyntaxErrors and NullPointers
+- Current Status: Looking for Uncle Ben's wisdom in Stack Overflow
 ```
 
 ---
 
-## 🛠️ Skills
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,nextjs,php,vscode,tailwind,ts&theme=light)](https://skillicons.dev)
+### Frontend & Design
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,sass,figma&theme=dark)](https://skillicons.dev)
+
+### Backend & Database
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,firebase,postgres,postman,graphql&theme=dark)](https://skillicons.dev)
+
+### Tools & Others
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,npm,vite,linux,arduino,py,cpp&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 👉 It Bite!
+## Spider-Sense (GitHub Stats)
 
-<img src="https://raw.githubusercontent.com/allainnnn/allainnnn/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nearmeoi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nearmeoi&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🎵 Now Playing on Spotify
+## Spotify Activity
 
 <div align="center">
   <a href="https://open.spotify.com/user/31sks6da5q75zvc55cqz7q544ag4">
@@ -45,25 +54,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## Spidey's Wisdom
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allainnnn&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allainnnn&theme=dark)
-
----
-
-## 🕷️ Spidey Quote of the Day
-
-> "With great power, comes great responsibility."
+> "With great power... comes a great electricity bill from my PC running 24/7."
 
 ---
 
-## 📫 Let's Connect
+## Contact the Spider-Signal
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<div align="center">
+  <a href="mailto:akmaljie12355@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nearmeoi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### _Swing high, code higher 🕷️_
+### _"I'm not a hero, I'm just your friendly neighborhood debugger."_
